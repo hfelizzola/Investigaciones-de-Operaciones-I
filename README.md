@@ -179,10 +179,9 @@ Al completar este curso, los estudiantes serán capaces de:
 
 ## 📧 Contacto y Soporte
 
-**Profesor:** [Nombre del Profesor]  
-**Email:** profesor@unisalle.edu.co  
-**Oficina:** [Ubicación en el campus]  
-**Horarios de atención:** [Días y horarios]
+**Profesor:** Heriberto Felizzola 
+**Email:** healfelizzola@unisalle.edu.co  
+**Oficina:** Bogotá DC.  
 
 Para reportar problemas o hacer preguntas:
 - 🐛 **Issues del repositorio:** Para errores técnicos
